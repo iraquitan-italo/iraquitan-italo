@@ -2,14 +2,14 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 Desenvolvedor em formação apaixonado por tecnologia e inovação.
+💻 Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
 
 ---
 
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vscode,node.js" />
 </p>
 
 ---
@@ -17,10 +17,14 @@
 ## 📚 Atualmente estudando
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=Spring Boot,docker,aws" />
 </p>
 
 ---
+
+## 🎯 Objetivos
+
+Busco oportunidades para desenvolver minha carreira na área de tecnologia, contribuindo com projetos que gerem impacto real enquanto continuo aprendendo e evoluindo profissionalmente.
 
 ## 📊 Estatísticas
 
@@ -33,7 +37,8 @@
 
 ## 🌎 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/italoiraquitan">
+<a href="https://www.linkedin.com/in/iraquitan-%C3%ADtalo-da-silva-santos-212001229">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+email: italoiraquitan@gmail.com
 
