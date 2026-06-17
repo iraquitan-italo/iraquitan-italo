@@ -29,13 +29,6 @@
 
 Busco oportunidades para desenvolver minha carreira na área de tecnologia, contribuindo com projetos que gerem impacto real enquanto continuo aprendendo e evoluindo profissionalmente.
 
-## 📊 Estatísticas
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact"/>
-</p>
-
 ---
 
 ## 🌎 Conecte-se comigo
@@ -43,5 +36,6 @@ Busco oportunidades para desenvolver minha carreira na área de tecnologia, cont
 <a href="https://www.linkedin.com/in/iraquitan-%C3%ADtalo-da-silva-santos-212001229">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+</br>
 email: italoiraquitan@gmail.com
 
