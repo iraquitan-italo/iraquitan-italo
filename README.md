@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou Ítalo Iraquitan
 
-<!--
-**iraquitan-italo/iraquitan-italo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em formação apaixonado por tecnologia e inovação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,aws" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact"/>
+</p>
+
+---
+
+## 🌎 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/italoiraquitan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
