@@ -16,9 +16,12 @@
 
 ## 📚 Atualmente estudando
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=Spring Boot,docker,aws" />
-</p>
+- Arquitetura de Software
+- Spring Boot
+- Machine Learning
+- API Restful
+- Testes de Software
+- Gerenciamento de Projetos
 
 ---
 
