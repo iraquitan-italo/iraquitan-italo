@@ -6,6 +6,24 @@
 
 ---
 
+## 🎯 Objetivos
+
+Busco oportunidades para desenvolver minha carreira na área de tecnologia, contribuindo com projetos que gerem impacto real enquanto continuo aprendendo e evoluindo profissionalmente.
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Graduando em Análise e Desenvolvimento de Sistemas
+
+💻 Estudando Desenvolvimento Web, Banco de Dados e Engenharia de Software
+
+🌱 Atualmente aprendendo React, Python, SQL, Spring Boot e Arquitetura de Software
+
+📍 Pernambuco, Brasil
+
+---
+
 ## 🚀 Tecnologias
 
 <p align="left">
@@ -23,11 +41,18 @@
 - Testes de Software
 - Gerenciamento de Projetos
 
+
 ---
 
-## 🎯 Objetivos
+## 📊 Estatísticas
 
-Busco oportunidades para desenvolver minha carreira na área de tecnologia, contribuindo com projetos que gerem impacto real enquanto continuo aprendendo e evoluindo profissionalmente.
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iraquitan-italo&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraquitan-italo&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
