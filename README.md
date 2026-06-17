@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Ítalo Iraquitan
+# 👋 Olá, eu sou Iraquitan Ítalo
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
